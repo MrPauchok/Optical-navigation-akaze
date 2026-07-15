@@ -1,0 +1,11 @@
+{
+    "tile": "370992_6652420_gray.png",
+    "points": 914,
+    "method": "AKAZE multiscale repeatability",
+    "scales": [
+        0.5,
+        0.75,
+        1.0,
+        1.25
+    ]
+}
